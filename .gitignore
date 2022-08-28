@@ -1,0 +1,4 @@
+/drug_case/*.json
+*.npy
+*.pth
+*.bin
